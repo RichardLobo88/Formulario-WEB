@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+header{
+width: 100%;
+height: 10%;
+}
+
+ul{
+color: aquamarine; 
+list-style-type:none;
+background: rgb(54, 129, 100);
+overflow: hidden;
+margin: 0;
+padding: 0;
+}
+
+li{
+    float:left;    
+}
+
+li a{
+display: block;
+color: rgb(83, 83, 185);
+text-align: center;
+padding: 15px;
+text-decoration: none;
+}
+
+li a:hover{
+background-color: rgb(128, 185, 166);
+}
+
+body{
+background-color: rgb(194, 194, 181);
+width:100vw;
+height: 100vh;
+}
+ 
+    
+ 
+form{
+background-color: rgb(190, 190, 149);
+max-width: 500px;
+}
+
+
+a:link {
+color: rgba(80, 60, 26, 0);
+}
+
+label
+{
+font-family: 'Times New Roman', Times, serif;
+font-size: 16px;
+}
+
+
+.btn{
+background-color: rgb(48, 153, 44);
+}
+
